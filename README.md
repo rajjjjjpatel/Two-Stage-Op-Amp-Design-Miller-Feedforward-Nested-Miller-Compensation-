@@ -175,8 +175,7 @@ A three-stage architecture employing two nested Miller compensation loops to ach
 ## Documentation
 
 A detailed report describing the complete design methodology, theoretical background, transistor sizing calculations, circuit schematics, simulation setup, process-corner analysis, transient response, and comparison of the three compensation techniques is included in this repository.
-
-For a comprehensive explanation of the project, please refer to **`Report.pdf`**.
+**Two Stage Op-Amp.pdf**.
 
 ---
 
@@ -188,9 +187,3 @@ For a comprehensive explanation of the project, please refer to **`Report.pdf`**
 
 ---
 
-## Author
-
-**Raj Patel**
-
-Electrical Engineering  
-Indian Institute of Technology Gandhinagar
