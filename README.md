@@ -172,21 +172,11 @@ A three-stage architecture employing two nested Miller compensation loops to ach
 - Evaluated all topologies under multiple process corners.
 
 ---
+## Documentation
 
-# Repository Structure
+A detailed report describing the complete design methodology, theoretical background, transistor sizing calculations, circuit schematics, simulation setup, process-corner analysis, transient response, and comparison of the three compensation techniques is included in this repository.
 
-```
-├── Report.pdf
-├── Schematics/
-├── Symbols/
-├── Simulation/
-│   ├── AC
-│   ├── Transient
-│   ├── Corners
-│   └── Outputs
-├── Images/
-└── README.md
-```
+For a comprehensive explanation of the project, please refer to **`Report.pdf`**.
 
 ---
 
