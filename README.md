@@ -1,4 +1,4 @@
-# Two-Stage-Op-Amp-Design-Miller-Feedforward-Nested-Miller-Compensation-
+
 # Two-Stage CMOS Operational Amplifier Compensation Techniques
 
 A comparative study of three frequency compensation techniques for high-performance CMOS operational amplifiers designed using the **SCL 180 nm CMOS PDK** in **Cadence Virtuoso (Spectre)**.
